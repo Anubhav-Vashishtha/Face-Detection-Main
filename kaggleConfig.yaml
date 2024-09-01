@@ -1,0 +1,4 @@
+path: /kaggle/input/data69/Data
+val: images/train
+train: images/train
+names: ['face']

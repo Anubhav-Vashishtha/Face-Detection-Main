@@ -1,0 +1,4 @@
+path: /Data
+val: images/train
+train: images/train
+names: ['face']
